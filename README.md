@@ -5,3 +5,4 @@ jenkins2
 jenkins3
 jenkins4
 jenkins5
+git push
